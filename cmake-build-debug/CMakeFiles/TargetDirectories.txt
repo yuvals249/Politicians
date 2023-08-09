@@ -1,0 +1,3 @@
+/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/CMakeFiles/Ass5Uv.dir
+/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

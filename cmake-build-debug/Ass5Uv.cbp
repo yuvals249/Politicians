@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ass5Uv"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ass5Uv">
+				<Option output="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Ass5Uv" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ass5Uv"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ass5Uv/fast">
+				<Option output="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Ass5Uv" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ass5Uv/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/DParty.cpp">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/DParty.h">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/Error.h">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/LDPolitician.cpp">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/LDPolitician.h">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/LRPolitician.cpp">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/LRPolitician.h">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/Party.cpp">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/Party.h">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/PoliticalSys.cpp">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/PoliticalSys.h">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/Politician.cpp">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/Politician.h">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/RParty.cpp">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/RParty.h">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/SDPolitician.cpp">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/SDPolitician.h">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/SRPolitician.cpp">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/SRPolitician.h">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/main.cpp">
+			<Option target="Ass5Uv"/>
+		</Unit>
+		<Unit filename="/Users/yuval/Desktop/Yuval/תכנות_מתקדם/עבודות/עבודה5/assignment5_C++/Assignment5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
